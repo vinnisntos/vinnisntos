@@ -6,7 +6,7 @@
 
 ### 🚀 Sobre Mim
 
-* 🎓 Cursando o 3º semestre de **Análise e Desenvolvimento de Sistemas** pela UNIP (Previsão: fev/2027).
+* 🎓 Cursando o **ULTIMO SEMESTRE** de **Análise e Desenvolvimento de Sistemas** pela UNIP (Previsão: nov/2026).
 * 💼 Busco oportunidades como **Estagiário de TI** ou **Desenvolvedor Backend / Fullstack Júnior**.
 * ⚡ Tenho forte domínio em lógica de programação, banco de dados e automação de processos, aliando minha bagagem de processos operacionais e de negócios com tecnologia.
 * 🛡️ Apaixonado por arquiteturas limpas, IA aplicada à produtividade de código e desenvolvimento ágil.
@@ -40,7 +40,7 @@
 
 Você pode conferir meus principais projetos estruturados e detalhados diretamente no meu portfólio oficial:
 
-👉 **[Acesse meu Portfólio de Projetos aqui](https://github.com/vinnisntos/port_vinni)** 💻
+👉 **[Acesse meu Portfólio de Projetos aqui](https://vinnisntos.github.io/port_vinni/)** 💻
 
 Alguns destaques que você encontrará por lá:
 * **Automações em Python (Pandas/Docker):** Soluções inteligentes de disparos de mensagens e processamento de leads estruturadas para ambientes reais de negócios.
@@ -49,14 +49,6 @@ Alguns destaques que você encontrará por lá:
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinnisntos&show_icons=true&theme=dark&include_all_commits=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnisntos&layout=compact&theme=dark" height="150" alt="Top Languages" />
-</p>
-
----
 
 ### 📫 Como me encontrar e conversar comigo
 

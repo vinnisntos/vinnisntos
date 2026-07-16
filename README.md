@@ -10,7 +10,7 @@
 * 💼 Busco oportunidades como **Estagiário de TI** ou **Desenvolvedor Backend / Fullstack Júnior**.
 * ⚡ Tenho forte domínio em lógica de programação, banco de dados e automação de processos, aliando minha bagagem de processos operacionais e de negócios com tecnologia.
 * 🛡️ Apaixonado por arquiteturas limpas, IA aplicada à produtividade de código e desenvolvimento ágil.
-* 🐧 Desenvolvo utilizando Linux (Fedora) no meu dia a dia.
+* 🐧 Desenvolvo utilizando Windows 11 e Linux (Fedora) no meu dia a dia.
 
 ---
 

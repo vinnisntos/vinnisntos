@@ -40,7 +40,7 @@
 
 Você pode conferir meus principais projetos estruturados e detalhados diretamente no meu portfólio oficial:
 
-👉 **[Acesse meu Portfólio de Projetos aqui](https://vinnisntos.github.io/port_vinni/)** 💻
+👉 **[Acesse meu Portfólio de Projetos aqui](https://vinnisantos.com.br/)** 💻
 
 Alguns destaques que você encontrará por lá:
 * **Automações em Python (Pandas/Docker):** Soluções inteligentes de disparos de mensagens e processamento de leads estruturadas para ambientes reais de negócios.
